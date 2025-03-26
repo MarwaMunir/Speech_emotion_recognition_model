@@ -1,0 +1,1 @@
+This project is a help from Kaggle and was entirely built in the kaggle environment with the dataset available at kaggle.Also this project is an exploratory journey in model building and training but specifically data analysis.
